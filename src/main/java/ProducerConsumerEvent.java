@@ -1,0 +1,5 @@
+/**
+ * Created by grohit on 9/11/15.
+ */
+public interface ProducerConsumerEvent extends ProducerEvent, ConsumerEvent {
+}
